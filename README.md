@@ -18,7 +18,7 @@ You can see when you click the app, that will play music with your phone. Image 
 
 View of the app
 
-![view of app](images/app-video.gif)
+![view of app](images/app-view.png)
 
 ## Technologies
 
