@@ -7,7 +7,6 @@ This is an app to practice flutter and play music with your phone.
 ```shell
 cd xylophone/
 flutter run
-
 ```
 
 Or do Fn + F5 if you're on mac notebook
@@ -18,7 +17,7 @@ You can see when you click the app, that will play music with your phone. Image 
 
 View of the app
 
-![view of app](images/app-view.png)
+![view of app](assets/app-view.png)
 
 ## Technologies
 
